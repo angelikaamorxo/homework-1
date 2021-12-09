@@ -23,4 +23,4 @@ The assignment included fixing up code in the html file to make it more semantic
 ![VSCcode](https://user-images.githubusercontent.com/94064933/145340263-05e72bde-b259-4ee5-bf1b-e52d7b45cb44.PNG)
 
 ## Link to the webpage:
-https://angelikaamorxo.github.io/bootcamp-homework-repo/
+https://angelikaamorxo.github.io/homework-1/
